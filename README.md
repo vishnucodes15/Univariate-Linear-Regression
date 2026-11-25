@@ -41,6 +41,8 @@ plt.plot(x,ypred,color='Blue')
 plt.show()
 ```
 ## Output
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d0fef97-a164-44cd-9913-6d6cdaea64d4" />
+
 <img width="1917" height="913" alt="image" src="https://github.com/user-attachments/assets/0141d203-8780-4a4c-a7d5-8ddb40819bc8" />
 
 <img width="1917" height="913" alt="image" src="https://github.com/user-attachments/assets/710ed96d-3a57-4c30-b644-c68c1265c5cc" />
